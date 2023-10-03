@@ -1,0 +1,6 @@
+Here are already some packages about emacs and ros:
+
+- [[https://github.com/code-iai/ros_emacs_utils][ros_emacs_utils -- Emacs tools for ROS]]
+- [[https://github.com/mbeutelspacher/ros.el][ros.el -- A package to ease the interaction ROS nodes and the development of ROS software]]
+
+This repo is an attempt to make an igist-like(or magit-like) interface for emacs to work with ROS.
